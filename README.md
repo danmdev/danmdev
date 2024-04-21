@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Daniel Moo</h1>
 <h3 align="center">Full Stack Developer. Apasionado por la tecnología y los videojuegos. Me encanta aprender cosas nuevas y compartir conocimientos</h3>
 
-- 🔭 Actualmente trabajo como desarrollador FullStack en [Mercado de Vivienda](https://mercadodevivienda.com)
-
 - 👨‍💻 Revisa mi portfolio [https://dmoo.dev](https://dmoo.dev)
 
 - 📫 Contáctame: **hi@dmoo.dev**
